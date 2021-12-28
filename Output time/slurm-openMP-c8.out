@@ -1,0 +1,82 @@
+Node list                    : node060
+Number of nodes allocated    : 1 or 1
+Number of threads or processes          : 
+Number of processes per node : 1
+Requested tasks per node     : 
+Requested CPUs per task      : 8
+Scheduling priority          : 0
+compiling pollen-v2.c to pollen-v2.exe
+using 8 OpenMP threads
+Initialising...   DONE
+Timestep 0: 361 particles on ground
+Timestep 50: 28160 particles on ground
+Timestep 100: 82299 particles on ground
+Timestep 150: 146734 particles on ground
+Timestep 200: 218214 particles on ground
+Timestep 250: 294055 particles on ground
+Timestep 300: 372916 particles on ground
+Timestep 350: 454594 particles on ground
+Timestep 400: 539304 particles on ground
+Timestep 450: 627372 particles on ground
+Timestep 500: 720305 particles on ground
+Timestep 550: 821055 particles on ground
+Timestep 600: 935358 particles on ground
+Timestep 650: 1086002 particles on ground
+Timestep 700: 1299982 particles on ground
+Timestep 750: 1439737 particles on ground
+Timestep 800: 1546093 particles on ground
+Timestep 850: 1631263 particles on ground
+Timestep 900: 1701544 particles on ground
+Timestep 950: 1760583 particles on ground
+Timestep 1000: 1811101 particles on ground
+Timestep 1050: 1854884 particles on ground
+Timestep 1100: 1893138 particles on ground
+Timestep 1150: 1927101 particles on ground
+Timestep 1200: 1957254 particles on ground
+Timestep 1250: 1984429 particles on ground
+Timestep 1300: 2008969 particles on ground
+Timestep 1350: 2031390 particles on ground
+Timestep 1400: 2051700 particles on ground
+Timestep 1450: 2070566 particles on ground
+Timestep 1500: 2087831 particles on ground
+Timestep 1550: 2103724 particles on ground
+Timestep 1600: 2118601 particles on ground
+Timestep 1650: 2132426 particles on ground
+Timestep 1700: 2145264 particles on ground
+Timestep 1750: 2157290 particles on ground
+Timestep 1800: 2168589 particles on ground
+Timestep 1850: 2179303 particles on ground
+Timestep 1900: 2189321 particles on ground
+Timestep 1950: 2198628 particles on ground
+Timestep 2000: 2207583 particles on ground
+Timestep 2050: 2216055 particles on ground
+Timestep 2100: 2224049 particles on ground
+Timestep 2150: 2231646 particles on ground
+Timestep 2200: 2238928 particles on ground
+Timestep 2250: 2245762 particles on ground
+Timestep 2300: 2252250 particles on ground
+Timestep 2350: 2258493 particles on ground
+Timestep 2400: 2264617 particles on ground
+Timestep 2450: 2270342 particles on ground
+Timestep 2500: 2275791 particles on ground
+Timestep 2550: 2281053 particles on ground
+Timestep 2600: 2286069 particles on ground
+Timestep 2650: 2290901 particles on ground
+Timestep 2700: 2295538 particles on ground
+Timestep 2750: 2300022 particles on ground
+Timestep 2800: 2304286 particles on ground
+Timestep 2850: 2308483 particles on ground
+Timestep 2900: 2312438 particles on ground
+Timestep 2950: 2316389 particles on ground
+Timestep 2999: 2319986 particles on ground
+
+
+y = 110.405819 x + 1995850.411865
+
+4000000 pollen for 3000 timesteps on 8 threads takes 49.250713 seconds
+Time taken to compute slop and intercept: 5.00679e-05 secs
+Time taken to Initialse variables: 0.226384 secs
+
+real	0m49.510s
+user	6m26.482s
+sys	0m6.808s
