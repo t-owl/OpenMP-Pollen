@@ -121,9 +121,9 @@ The line that determines the best linear fit is **Y = mX+c**. (Mathsisfun.com, 2
 
 So to find m and c we apply the following formulas:
 
-<img src="https://render.githubusercontent.com/render/math?math=m=\frac{N\sum_{xy}-\sum_{x}\sum_{y}}{N\sum_{x^{2}}-(\sum_{x})^{2}}">
+<img src="https://render.githubusercontent.com/render/math?math=m=\frac{N\sum_{xy}-\sum_{x}\sum_{y}}{N\sum_{x^{2}}-(\sum_{x})^{2}}#gh-light-mode-only"><img src="https://render.githubusercontent.com/render/math?math=\color{White}m=\frac{N\sum_{xy}-\sum_{x}\sum_{y}}{N\sum_{x^{2}}-(\sum_{x})^{2}}#gh-dark-mode-only">
 
-<img src="https://render.githubusercontent.com/render/math?math=c=\frac{\sum_{y}-m\sum_{x}}{N}">
+<img src="https://render.githubusercontent.com/render/math?math=c=\frac{\sum_{y}-m\sum_{x}}{N}#gh-light-mode-only"><img src="https://render.githubusercontent.com/render/math?math=\color{White}c=\frac{\sum_{y}-m\sum_{x}}{N}#gh-dark-mode-only">
 
 In the implementation of the serial code one void function was created to calculate moth `m` and `c`, once the calculation was done m and c were returned to the main function to be printed into the terminal.
 
